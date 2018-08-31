@@ -1,5 +1,5 @@
 # Python_Practice
-## [parseMD](https://github.com/zfb132/Python_Practice/blob/master/demo_baike.py "点击查看代码")
+## [parseMD](https://github.com/zfb132/Python_Practice/blob/master/parseMD/parseMD.py "点击查看代码")
 把`Jekyll`应用发的`markdown`格式的博客进行分词：
 * 使用方法为在控制台窗口输入 `python parseMD.py demo_article.md`
 * 程序首先将格式控制字符去除，再调用`jieba`分词
